@@ -25,8 +25,8 @@ Print the transformed features
 ## PROGRAM:
 
 ```
-# NAME: S.ABHISHEK
-# REG NO: 212221230002
+NAME: S.ABHISHEK
+REG NO: 212221230002
 ```
 ### Importing Libraries
 ```
